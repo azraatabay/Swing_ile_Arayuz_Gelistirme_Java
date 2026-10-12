@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="WebSayfasi">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/WebSayfasi/dist/WebSayfasi.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BasitHesapMakinesi/BasitHesapMakinesi.iml" filepath="$PROJECT_DIR$/BasitHesapMakinesi/BasitHesapMakinesi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DosyaIndirme/DosyaIndirme.iml" filepath="$PROJECT_DIR$/DosyaIndirme/DosyaIndirme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FileChooserveColorChooser/FileChooserveColorChooser.iml" filepath="$PROJECT_DIR$/FileChooserveColorChooser/FileChooserveColorChooser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GrafikKullanimi/GrafikKullanimi.iml" filepath="$PROJECT_DIR$/GrafikKullanimi/GrafikKullanimi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JListKullanimi/JListKullanimi.iml" filepath="$PROJECT_DIR$/JListKullanimi/JListKullanimi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JPassWordFieldKullaniciGirisi/JPassWordFieldKullaniciGirisi.iml" filepath="$PROJECT_DIR$/JPassWordFieldKullaniciGirisi/JPassWordFieldKullaniciGirisi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSwingUI/JavaSwingUI.iml" filepath="$PROJECT_DIR$/JavaSwingUI/JavaSwingUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KelimeveHarfFrekansi/KelimeveHarfFrekansi.iml" filepath="$PROJECT_DIR$/KelimeveHarfFrekansi/KelimeveHarfFrekansi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Menu/Menu.iml" filepath="$PROJECT_DIR$/Menu/Menu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RadyoveComboBox/RadyoveComboBox.iml" filepath="$PROJECT_DIR$/RadyoveComboBox/RadyoveComboBox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RegisterLoginUygulamasi/RegisterLoginUygulamasi.iml" filepath="$PROJECT_DIR$/RegisterLoginUygulamasi/RegisterLoginUygulamasi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SiparisUygulamasi/SiparisUygulamasi.iml" filepath="$PROJECT_DIR$/SiparisUygulamasi/SiparisUygulamasi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StokUygulamasi/StokUygulamasi.iml" filepath="$PROJECT_DIR$/StokUygulamasi/StokUygulamasi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Swing ile Arayüz Geliştirme Java.iml" filepath="$PROJECT_DIR$/.idea/Swing ile Arayüz Geliştirme Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UzayOyunuProjesi/UzayOyunuProjesi.iml" filepath="$PROJECT_DIR$/UzayOyunuProjesi/UzayOyunuProjesi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebSayfasi/WebSayfasi.iml" filepath="$PROJECT_DIR$/WebSayfasi/WebSayfasi.iml" />
+    </modules>
+  </component>
+</project>
